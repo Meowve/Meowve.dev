@@ -5,7 +5,7 @@
 }
 
 h1 {
-    font-size: 2.5em;
+    font-size: 3em;
 }
 
 p {
@@ -34,4 +34,8 @@ a:active {
 .project-body,
 .socials-body {
     text-align: center;
+    max-width: 500px;
+    margin: auto;
+    position: relative;
+    top: 170px;
 }
